@@ -6,7 +6,7 @@ In particular, this model comprises 10 neural populations that correspond to the
 
 A list of citable manuscripts that used this model:
 
-* Fountas, Zafeirios. "*Action selection in the rhythmic brain: The role of the basal ganglia and tremor.*" (2016).
+* Fountas, Zafeirios. "*Action selection in the rhythmic brain: The role of the basal ganglia and tremor.*" PhD Thesis, Imperial College London (2016).
 
 * Fountas, Zafeirios, and Murray Shanahan. "*The role of cortical oscillations in a spiking neural model of the basal ganglia.*" *Under review*, PLOS ONE
 
