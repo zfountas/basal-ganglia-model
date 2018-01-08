@@ -8,7 +8,7 @@ A list of citable manuscripts that used this model:
 
 * Fountas, Zafeirios. "*Action selection in the rhythmic brain: The role of the basal ganglia and tremor.*" PhD Thesis, Imperial College London (2016).
 
-* Fountas, Zafeirios, and Murray Shanahan. "*The role of cortical oscillations in a spiking neural model of the basal ganglia.*" *Under review*, PLOS ONE
+* Fountas, Zafeirios, and Murray Shanahan. "*The role of cortical oscillations in a spiking neural model of the basal ganglia.*", PloS one 12.12 (2017): e0189109.
 
 * Fountas, Zafeirios, and Murray Shanahan. "*Assessing Selectivity in the Basal Ganglia: The 'Gearbox' Hypothesis.*" bioRxiv (2017): 197129.
 
